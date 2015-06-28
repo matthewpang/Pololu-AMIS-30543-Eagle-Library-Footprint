@@ -5,6 +5,9 @@ Thank you to Grant Katsumata at Pololu for sending me the dimensions so that I c
 
 Designed and Released by Matthew Pang Chia Hua on June 28, 2015.
 
+Git Hub:
+This library lives at https://github.com/matthewpang/Pololu-AMIS-30543-Eagle-Library-Footprint and will be updated as necessary :) 
+
 License :
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 License Information Link : 
