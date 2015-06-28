@@ -266,6 +266,7 @@ Pololu AMIS-30543 Stepper Driver Carrier . Product Page : https://www.pololu.com
 </devices>
 </deviceset>
 <deviceset name="POLOLU-AMIS-30543-TERMINALBLOCKS">
+<description>This variant contains only the terminal blocks No pin headers . Pololu AMIS-30543 Stepper Driver Carrier . Product Page : https://www.pololu.com/product/2970 . AMIS 30543 Datasheet https://www.pololu.com/file/download/AMIS-30543-D.pdf?file_id=0J869</description>
 <gates>
 <gate name="G$1" symbol="POLOLU-AMIS-30543" x="0" y="0"/>
 </gates>
